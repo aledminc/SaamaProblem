@@ -42,9 +42,9 @@ Opted for `new-thyroid.[data, names]` set for synthesis:
 Used **SDV Library and GaussianCopula** to train the generative model, then generated 1,000 synthetic samples.
 
 **Result:**
-class: chi2 p-value = 0.7565
-T3_uptake: ks p-value = 0.3200
-thyroxin: ks p-value = 0.1502
-triiodothyronine: ks p-value = 0.0102  
-basal_TSH: ks p-value = 0.0000
-TSH_response: ks p-value = 0.0000
+- class: chi2 p-value = 0.7565
+- T3_uptake: ks p-value = 0.3200
+- thyroxin: ks p-value = 0.1502
+- triiodothyronine: ks p-value = 0.0102  
+- basal_TSH: ks p-value = 0.0000
+- TSH_response: ks p-value = 0.0000
