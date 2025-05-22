@@ -39,3 +39,4 @@ Opted for `new-thyroid.[data, names]` set for synthesis:
 - Contains diagnosis label (for later classification if needed)  
 - Moderate size (215 records)
 
+Used **SDV Library and CTGAN** to train the generative model, then generated 1,000 synthetic samples.
