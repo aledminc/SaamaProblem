@@ -50,5 +50,5 @@ Used **SDV Library and GaussianCopula** to train the generative model, then gene
 - basal_TSH: ks p-value = 0.0000
 - TSH_response: ks p-value = 0.0000
 
-Avg real-to-real NN distance: 0.2803
+Avg real-to-real NN distance: 0.2803  
 Avg synth-to-real NN distance: 0.4166 
